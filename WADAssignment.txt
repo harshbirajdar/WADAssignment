@@ -127,7 +127,6 @@ Q4. Ruby program to solve Josephus Problem
 	Jos(n,k)
 
 Assignment 3
-The github saga
 
 Q1. What is git?
 	Git is a version control system (VCS)
@@ -193,7 +192,7 @@ Q3. Create an account on Github
 	
 	Was done.
 Assignment 4
-Sinatra Saga
+Sinatra
 
 Q1. What is a bundler?
 	Bundler provides a consistent environment for
